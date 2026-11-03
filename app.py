@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="NEXUS | cTrader Agent",
+    page_title="SHAM | cTrader Agent",
     page_icon="◈",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -192,7 +192,7 @@ th {font-weight:normal;color:var(--muted)}
 <div class="wrap">
   <header class="header">
     <div>
-      <div class="brand">NEXUS <b>AI</b> ◈</div>
+      <div class="brand">SHAM <b>AI</b> ◈</div>
       <div class="sub">cTrader Agent · لوحة قيادة الوكيل</div>
     </div>
     <div style="text-align:left">
